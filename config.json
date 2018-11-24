@@ -1,7 +1,7 @@
 {
 	"auth": {
-		"username": "18667048220",
-		"password": "Standby123."
+		"username": "your sina username",
+		"password": "your password."
 	},
 	"port": 8088,
 	"url": "/upload",
