@@ -77,3 +77,12 @@ typings/
 
 #DynamoDB Local files 
 .dynamodb/ 
+
+# config json not commit
+config.json
+
+# cookie.txt not commit 
+cookie.txt
+
+# vscode
+.vscode/
