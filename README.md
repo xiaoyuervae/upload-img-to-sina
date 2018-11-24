@@ -29,7 +29,7 @@ node index.js
 ```
 4、MWeb配置:
 
-![](https://ws1.sinaimg.cn/large/e1417e4bly1fxjjr2j582j20g20iuq4x)
+![](https://ws1.sinaimg.cn/large/e1417e4bly1fxjjxv3u1vj20ez0evab9)
 
 5、ctrl+c / ctrl + v
 
