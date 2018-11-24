@@ -23,6 +23,13 @@ upload img to sina
 ``` bash
 npm install 
 ```
+
+3、配置新浪微博账号密码:
+
+在`config.json`文件中填入自己的账号密码:
+
+![](https://ws1.sinaimg.cn/large/e1417e4bly1fxjk8s6o96j20k30jl0up)
+
 3、启动服务
 ```bash
 node index.js
