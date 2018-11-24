@@ -1,0 +1,21 @@
+{
+    "name": "upload-img-to-sina",
+    "version": "1.0.0",
+    "description": "sina picture api",
+    "main": "index.js",
+    "author": "guanchun.yu",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^0.15.3",
+        "formidable": "^1.1.1",
+        "log4js": "^1.1.1",
+        "node-axios-cookiejar": "^0.0.3",
+        "tough-cookie": "^2.3.2",
+        "tough-cookie-filestore": "^0.0.1",
+        "compression": "^1.7.3",
+        "express": "^4.16.3",
+        "helmet": "^3.13.0",
+        "method-override": "^3.0.0",
+        "request": "^2.83.0"
+    }
+}

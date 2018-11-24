@@ -1,0 +1,12 @@
+{
+	"auth": {
+		"username": "18667048220",
+		"password": "Standby123."
+	},
+	"port": 8088,
+	"url": "/upload",
+	"default": {
+		"protocol": "https",
+		"size": "large"
+	}
+}
